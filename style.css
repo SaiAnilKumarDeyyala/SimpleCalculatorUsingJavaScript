@@ -39,6 +39,7 @@ body {
     color:blanchedalmond;
     height: 78px;
     text-align: right;
+    overflow: hidden;
 }
 #output {
     font-family:'Times New Roman', Times, serif;
@@ -47,6 +48,7 @@ body {
     font-size: 50px;
     height: 78px;
     text-align: right;
+    overflow: hidden;
 }
 
 .calc-keyboard {
